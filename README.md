@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nick19970
 - 👀 I’m interested in front-end development. 
-- 🌱 I’m currently learning Phyton. 
+- 🌱 I’m currently learning JS. 
 - 💞️ I’m looking to collaborate on Github. 
 - 📫 How to reach me @Adamenko Nick. 
 
